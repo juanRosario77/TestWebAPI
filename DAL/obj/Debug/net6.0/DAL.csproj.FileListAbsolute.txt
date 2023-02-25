@@ -1,0 +1,42 @@
+C:\Users\Pc22\source\repos\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Pc22\source\repos\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Pc22\source\repos\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Pc22\source\repos\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\Pc22\source\repos\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Pc22\source\repos\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\jossy\OneDrive\Escritorio\test1 (1)\test1\API\DAL\obj\Debug\net6.0\ref\DAL.dll
